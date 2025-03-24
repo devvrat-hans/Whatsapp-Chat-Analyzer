@@ -1,0 +1,5 @@
+add llm and use add features like:
+    1. summary of last 100 messages.
+    2. essence of the conversation.
+    3. list of important messages.
+    
